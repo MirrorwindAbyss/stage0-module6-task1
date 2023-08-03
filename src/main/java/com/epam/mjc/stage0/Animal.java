@@ -12,7 +12,7 @@ public class Animal {
     }
 
     public String getDescription(){
-        String furCondition="0";
+        String furCondition;
         String pawsCondition;
         if(numberOfPaws==1){
             pawsCondition = "paw";
