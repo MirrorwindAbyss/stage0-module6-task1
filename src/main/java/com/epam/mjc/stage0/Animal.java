@@ -24,6 +24,6 @@ public class Animal {
         }  else{
             furCondition="no";
         }
-        return "This animal is mostly "+ color + ". It has " + numberOfPaws + " " + pawsCondition + " and " + furCondition + " fur";
+        return "This animal is mostly "+ color + ". It has " + numberOfPaws + " " + pawsCondition + " and " + furCondition + " fur.";
     }
 }
